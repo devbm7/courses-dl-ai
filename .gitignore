@@ -1,5 +1,6 @@
 
 .codegpt
+.venv
 Reason_with_o1/a.py
 Reason_with_o1/helper.py
 Reason_with_o1/__pycache__
